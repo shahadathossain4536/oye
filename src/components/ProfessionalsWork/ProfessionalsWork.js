@@ -1,9 +1,12 @@
 import React from "react";
+import Carousel from "./Carousel";
+import Service from "./Service";
 
 const ProfessionalsWork = () => {
   return (
     <div>
-      <h1></h1>
+      <Carousel />
+      <Service />
     </div>
   );
 };
